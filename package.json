@@ -1,6 +1,6 @@
 {
   "name": "color-ie",
-  "version": "4.2.3",
+  "version": "4.2.4",
   "description": "Color conversion and manipulation with CSS string support",
   "sideEffects": false,
   "keywords": [
