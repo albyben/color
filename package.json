@@ -13,6 +13,8 @@
     "Heather Arthur <fayearthur@gmail.com>",
     "Maxime Thirouin"
   ],
+  "main": "./lib/index.js",
+  "module": "./lib/index.js",
   "license": "MIT",
   "repository": "Qix-/color",
   "xo": {
