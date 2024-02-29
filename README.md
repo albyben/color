@@ -1,5 +1,7 @@
 # color
 
+> 对项目文件重新编译发布，以使其支持ie11
+
 > JavaScript library for immutable color conversion and manipulation with support for CSS color strings.
 
 ```js
